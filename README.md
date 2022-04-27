@@ -76,7 +76,7 @@ h3 {
 <dt><b><u>E-mail:</u></b></dt>
 <dd>*******</dd>
 <dt><b><u>Phone Number:</u></b></dt>
-<dd>v</dd>
+<dd>*******</dd>
 <dt><b><u>Location:</u></b></dt>
 <dd>*******</dd>
 <dt><b><u>Pincode:</u></b></dt>
@@ -93,7 +93,7 @@ h3 {
 <ul>
 <li>*******</li>
 <li>*******</li>
-<li>Krishna Univerty</li>
+<li>*******</li>
 </ul>
 <ul>
 <li>*******</li>
