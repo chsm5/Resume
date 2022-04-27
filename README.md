@@ -147,6 +147,11 @@ h3 {
 <h2>Interests:</h2>
 <p>Watching Movies,Tv Shows</p>
 <p>Learning Things</p>
+  
+  <hr>
+  <h2>Languages</h2>
+  <p>Telugu</p>
+  <p>english</p>
 
 
 
