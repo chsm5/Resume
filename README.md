@@ -72,33 +72,33 @@ h3 {
 
 <dl>
 <dt><b><u>Name:</u></b></dt>
-<dd>Ch.Sai Manish</dd>
+<dd>*******</dd>
 <dt><b><u>E-mail:</u></b></dt>
-<dd>saimanish13579@gmail.com</dd>
+<dd>*******</dd>
 <dt><b><u>Phone Number:</u></b></dt>
-<dd>9059170531</dd>
+<dd>v</dd>
 <dt><b><u>Location:</u></b></dt>
-<dd>Nuzvid</dd>
+<dd>*******</dd>
 <dt><b><u>Pincode:</u></b></dt>
-<dd>521201</dd>
+<dd>*******</dd>
 <dt><b><u>District:</u></b></dt>
-<dd>Eluru</dd>
+<dd>*******</dd>
 <dt><b><u>State:</u></b></dt>
-<dd>Andhra Pradesh</dd>
+<dd>*******</dd>
 </dl>
 
 <hr>
 
 <h2>Education:</h2>
 <ul>
-<li>Bsc Computer Science(mpcs) With 70%</li>
-<li>Sri Sriddhardha Degree College</li>
+<li>*******</li>
+<li>*******</li>
 <li>Krishna Univerty</li>
 </ul>
 <ul>
-<li>B.Ed With 67%</li>
-<li>S.S.N.M.C.T.E</li>
-<li>Krishna Univerty</li>
+<li>*******</li>
+<li>*******</li>
+<li>*******</li>
 </ul>
  
 <hr>
@@ -110,6 +110,7 @@ h3 {
 <ul>
 <li>HTML5</li>
 <li>CSS3</li>
+<li>JS</li>
 </ul>
 </div>
 
@@ -136,7 +137,7 @@ h3 {
 <ul>
 <li>Good Communication Skills</li>
 <li>Problem solving Skills</li>
-<li>Hard Working Nature</li>
+<li>Analytical Skills</li>
 </ul>
  </div>
 </div>
@@ -145,11 +146,6 @@ h3 {
 
 <h2>Interests:</h2>
 <p>Watching Movies,Tv Shows</p>
-<p>Playing Games</p>
-
-<h2>Hobbies:</h2>
-<p>Watching Movies,Tv Shows</p>
-<p>Playing Games</p>
 <p>Learning Things</p>
 
 
